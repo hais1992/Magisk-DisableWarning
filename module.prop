@@ -1,0 +1,7 @@
+id=201809041036
+name=Disable Warning(关闭O打开软件时的警告)
+version=1.0
+versionCode=1
+author=Hais
+description=关闭安卓8.0以上打开软件的 Warning 提示
+minMagisk=17000
